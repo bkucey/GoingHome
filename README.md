@@ -1,0 +1,1 @@
+A fun collection of scripts for Debian systems for when you are done with work and going home.
