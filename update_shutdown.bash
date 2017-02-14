@@ -9,3 +9,4 @@ apt-get autoremove -y #take out the stuff we don't need anymore
 apt-get autoclean -y #tidy up
 #power down the system with at least 2 minutes to enjoy the final countdown :)
 shutdown -P +2 cancel shutdown with command "sudo shutdown -c" or hold Ctrl key and press C key
+spd-say What are you doing Dave
